@@ -1,0 +1,425 @@
+{
+  "forms": [
+    {
+      "id": "b083b7c0-5681-41fc-9ee4-0bfadb88424a",
+      "ctime": 1660619283019,
+      "utime": 1660619283019,
+      "status": 3,
+      "author": "d9016f66-4aed-4ff1-887f-7a60f37d8919",
+      "isStar": false,
+      "title": "新建表单",
+      "subTitle": "新建表单副标题",
+      "problems": [
+        {
+          "id": "f3f8e1b8-078d-42aa-8a48-55617f4870be",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false
+        },
+        {
+          "id": "57ec62fb-7ff4-450d-9dd1-3a03b7448298",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false
+        },
+        {
+          "id": "e1e90c40-5e29-446c-808e-91f2cff5e34c",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false
+        },
+        {
+          "id": "2438bae7-5d34-4bc9-a2ad-32ccdd4eeb78",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false
+        }
+      ]
+    },
+    {
+      "id": "4b15f369-d9f4-4658-8679-adac58f02f4a",
+      "ctime": 1668332718090,
+      "utime": 1668332718090,
+      "status": 3,
+      "author": "d9016f66-4aed-4ff1-887f-7a60f37d8919",
+      "isStar": false,
+      "title": "新建表单",
+      "subTitle": "新建表单副标题",
+      "problems": [
+        {
+          "id": "48d64627-eb5a-48b1-87e9-039b923636de",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false
+        },
+        {
+          "id": "08bb9299-aaa9-4e88-be69-f7fba2979815",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false
+        },
+        {
+          "id": "4c2f4627-8091-4a85-a444-8ac5c11ede2a",
+          "title": "请选择日期",
+          "type": "date",
+          "required": false,
+          "isNew": false
+        },
+        {
+          "id": "3bfe3398-d496-40ad-ae55-55fd76487805",
+          "title": "请选择一个或多个选项",
+          "type": "multiSelect",
+          "required": false,
+          "isNew": false,
+          "setting": {
+            "options": [
+              {
+                "title": "12312",
+                "status": 2,
+                "id": "9b690d9e-6020-4d5d-b8db-aae58c4bb142"
+              },
+              {
+                "title": "123213",
+                "status": 2,
+                "id": "37c64662-a6f9-44eb-9e64-387bf5c01375"
+              }
+            ]
+          }
+        },
+        {
+          "id": "28784081-eeca-407d-8c64-a0bccf643a57",
+          "title": "请选择一个选项",
+          "type": "singleSelect",
+          "required": false,
+          "isNew": false,
+          "setting": {
+            "options": [
+              {
+                "title": "33",
+                "status": 2,
+                "id": "37b27a02-dfa8-4058-8376-94d83e28e018"
+              },
+              {
+                "title": "rgrg",
+                "status": 2,
+                "id": "283b10a4-6fcd-401d-af33-2d4159e33cc7"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "1597a73f-38e7-42a9-baa3-020eaabf938c",
+      "ctime": 1677223770836,
+      "utime": 1677223770836,
+      "status": 2,
+      "author": "6c67f14f-2bd7-4a87-9edb-2f7fdff8b08b",
+      "isStar": false,
+      "title": "postman测试创建表单",
+      "subTitle": "小测一下",
+      "problems": [
+        {
+          "id": "ac3fc428-c797-4bdb-8366-b88af9a44239",
+          "title": "选择你喜欢的食物",
+          "type": "singleSelect",
+          "required": true,
+          "setting": {
+            "options": [
+              {
+                "title": "米饭",
+                "status": 2,
+                "id": "da18d95e-d33f-42e2-b030-1dfd4b67b365"
+              },
+              {
+                "title": "炸鸡",
+                "status": 2,
+                "id": "c09de1ad-d396-489d-9f06-1cfd6724b05c"
+              },
+              {
+                "title": "可乐",
+                "status": 2,
+                "id": "c7be503f-d6dc-4be6-b45b-8bf95e2338ec"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "d9016f66-4aed-4ff1-887f-7a60f37d8919",
+      "account": "zzl",
+      "pwd": "0360fae306fa00af7fcc60cc9f14b4bb6e2d7d5059c16c0faa7354aa5f984a05",
+      "status": 2,
+      "ctime": 1660619245499,
+      "utime": 1660619245499,
+      "nickname": "zzl",
+      "avatar": ""
+    },
+    {
+      "id": "46045e35-ad7c-4afd-830a-40e2aecb2f46",
+      "account": "db_test_user1",
+      "pwd": "0360fae306fa00af7fcc60cc9f14b4bb6e2d7d5059c16c0faa7354aa5f984a05",
+      "status": 2,
+      "ctime": 1677051925882,
+      "utime": 1677051925882,
+      "nickname": "db_test_user1",
+      "avatar": ""
+    },
+    {
+      "id": "e9825f32-0f91-4ce7-a5ce-d2ce4e40d155",
+      "account": "db_test_user2",
+      "pwd": "0360fae306fa00af7fcc60cc9f14b4bb6e2d7d5059c16c0faa7354aa5f984a05",
+      "status": 2,
+      "ctime": 1677053008485,
+      "utime": 1677053008485,
+      "nickname": "user2",
+      "avatar": "333"
+    }
+  ],
+  "starProblems": [],
+  "formModules": [],
+  "formResults": [
+    {
+      "id": "727600f3-339e-4983-8c26-beb1821e6023",
+      "formAuthor": "d9016f66-4aed-4ff1-887f-7a60f37d8919",
+      "formId": "b083b7c0-5681-41fc-9ee4-0bfadb88424a",
+      "result": [
+        {
+          "id": "f3f8e1b8-078d-42aa-8a48-55617f4870be",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false,
+          "result": {
+            "value": "1"
+          }
+        },
+        {
+          "id": "57ec62fb-7ff4-450d-9dd1-3a03b7448298",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false,
+          "result": {
+            "value": "2"
+          }
+        },
+        {
+          "id": "e1e90c40-5e29-446c-808e-91f2cff5e34c",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false,
+          "result": {
+            "value": "3"
+          }
+        },
+        {
+          "id": "2438bae7-5d34-4bc9-a2ad-32ccdd4eeb78",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false,
+          "result": {
+            "value": "4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f56455de-60d7-4089-8316-939bf6a1a980",
+      "formAuthor": "d9016f66-4aed-4ff1-887f-7a60f37d8919",
+      "formId": "4b15f369-d9f4-4658-8679-adac58f02f4a",
+      "result": [
+        {
+          "id": "48d64627-eb5a-48b1-87e9-039b923636de",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false,
+          "result": {
+            "value": "12312321"
+          }
+        },
+        {
+          "id": "08bb9299-aaa9-4e88-be69-f7fba2979815",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false,
+          "result": {
+            "value": "123213"
+          }
+        },
+        {
+          "id": "4c2f4627-8091-4a85-a444-8ac5c11ede2a",
+          "title": "请选择日期",
+          "type": "date",
+          "required": false,
+          "isNew": false,
+          "result": {
+            "value": "1667987144959"
+          }
+        },
+        {
+          "id": "3bfe3398-d496-40ad-ae55-55fd76487805",
+          "title": "请选择一个或多个选项",
+          "type": "multiSelect",
+          "required": false,
+          "isNew": false,
+          "setting": {
+            "options": [
+              {
+                "title": "12312",
+                "status": 2,
+                "id": "9b690d9e-6020-4d5d-b8db-aae58c4bb142"
+              },
+              {
+                "title": "123213",
+                "status": 2,
+                "id": "37c64662-a6f9-44eb-9e64-387bf5c01375"
+              }
+            ]
+          },
+          "result": {
+            "value": [
+              {
+                "id": "e8f8710b-aac1-476f-b3e3-ff3d2a749b92",
+                "title": "12312"
+              }
+            ]
+          }
+        },
+        {
+          "id": "28784081-eeca-407d-8c64-a0bccf643a57",
+          "title": "请选择一个选项",
+          "type": "singleSelect",
+          "required": false,
+          "isNew": false,
+          "setting": {
+            "options": [
+              {
+                "title": "33",
+                "status": 2,
+                "id": "37b27a02-dfa8-4058-8376-94d83e28e018"
+              },
+              {
+                "title": "rgrg",
+                "status": 2,
+                "id": "283b10a4-6fcd-401d-af33-2d4159e33cc7"
+              }
+            ]
+          },
+          "result": {
+            "value": {
+              "id": "65e2daa4-d080-42bb-8507-2062fc14ffb6",
+              "title": "33"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "f7491ee9-d54d-4680-b3e4-495540d0447c",
+      "formAuthor": "d9016f66-4aed-4ff1-887f-7a60f37d8919",
+      "formId": "4b15f369-d9f4-4658-8679-adac58f02f4a",
+      "result": [
+        {
+          "id": "48d64627-eb5a-48b1-87e9-039b923636de",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false,
+          "result": {
+            "value": "123213"
+          }
+        },
+        {
+          "id": "08bb9299-aaa9-4e88-be69-f7fba2979815",
+          "title": "请输入内容",
+          "type": "input",
+          "required": false,
+          "isNew": false,
+          "result": {
+            "value": "12321"
+          }
+        },
+        {
+          "id": "4c2f4627-8091-4a85-a444-8ac5c11ede2a",
+          "title": "请选择日期",
+          "type": "date",
+          "required": false,
+          "isNew": false,
+          "result": {
+            "value": "1668073553804"
+          }
+        },
+        {
+          "id": "3bfe3398-d496-40ad-ae55-55fd76487805",
+          "title": "请选择一个或多个选项",
+          "type": "multiSelect",
+          "required": false,
+          "isNew": false,
+          "setting": {
+            "options": [
+              {
+                "title": "12312",
+                "status": 2,
+                "id": "9b690d9e-6020-4d5d-b8db-aae58c4bb142"
+              },
+              {
+                "title": "123213",
+                "status": 2,
+                "id": "37c64662-a6f9-44eb-9e64-387bf5c01375"
+              }
+            ]
+          },
+          "result": {
+            "value": [
+              {
+                "id": "ec0651ab-20c3-4b81-96c5-05a993ab5624",
+                "title": "123213"
+              }
+            ]
+          }
+        },
+        {
+          "id": "28784081-eeca-407d-8c64-a0bccf643a57",
+          "title": "请选择一个选项",
+          "type": "singleSelect",
+          "required": false,
+          "isNew": false,
+          "setting": {
+            "options": [
+              {
+                "title": "33",
+                "status": 2,
+                "id": "37b27a02-dfa8-4058-8376-94d83e28e018"
+              },
+              {
+                "title": "rgrg",
+                "status": 2,
+                "id": "283b10a4-6fcd-401d-af33-2d4159e33cc7"
+              }
+            ]
+          },
+          "result": {
+            "value": {
+              "id": "6d84d9d8-5cea-4e2d-b67d-83b594460753",
+              "title": "rgrg"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
